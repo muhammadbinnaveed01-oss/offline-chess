@@ -1,0 +1,6 @@
+{
+  "name": "Grandmaster Mobile Chess",
+  "description": "Offline mobile chess game featuring Single-Player AI with 3 difficulty levels, Local Pass-and-Play with Auto-Rotate and Tabletop modes, FIDE rules, timers, and sleek dark minimalist design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
